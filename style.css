@@ -1,0 +1,51 @@
+h1 {
+  color: #016fff;
+  font-size: 60px;
+  font-weight: 350;
+}
+.city {
+  border-color: #016fff;
+}
+.search-button {
+  background-color: #016fff;
+  color: white;
+  border-color: #016fff;
+}
+.london {
+  margin-top: 40px;
+  background-color: #fbfbfc;
+}
+.london-text {
+  font-size: 55px;
+  color: grey;
+  font-weight: 300;
+}
+.temp {
+  background-color: #d2e2ff;
+  border: solid #016fff;
+}
+.date {
+  font-size: small;
+  color: grey;
+}
+.current {
+  font-size: 50px;
+  font-weight: 400;
+}
+.day {
+  text-align: center;
+}
+.weather-emoji {
+  text-align: center;
+  font-size: 25px;
+}
+.range {
+  text-align: center;
+}
+.card {
+  border-radius: 0px;
+  background-color: #fbfbfc;
+}
+#replace {
+  text-transform: capitalize;
+}
